@@ -1,3 +1,6 @@
+
+**This is a Beta version
+
 # Market Price Prediction Platform
 
 A comprehensive web platform connecting farmers, wholesalers, retailers, and other stakeholders in the agriculture supply chain while providing accurate market price predictions.
